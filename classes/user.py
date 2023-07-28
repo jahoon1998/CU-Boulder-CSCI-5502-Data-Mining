@@ -1,3 +1,14 @@
+import pandas as pd
+import numpy as np
+import scipy as sp
+
+import seaborn as sns
+import matplotlib.pyplot as plt
+
+from sklearn.metrics.pairwise import cosine_similarity
+
+import sys
+
 # This is a class made to reccomend classes using user-user content based reccomendation for specifically the files in this assignment
 # Because we use certain labels to acess data like 'StudentId' this is not a general reccomender
 # This can be initialized by inputting a dataframe where each row represents a class a student took, and assosiates the students id with the course id for that respective row
