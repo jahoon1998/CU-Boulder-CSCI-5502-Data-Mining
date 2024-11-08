@@ -6,7 +6,7 @@ For detailed information, analysis, and results, refer to the full [Project Repo
 ## Data references
 We gathered our data from [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10237496/#sec020)
 For more information on where these data were gathered from please look at the readme in our data folder referenced here:
-[Dataset readme]([https://github.com/Khaled2049/CSCI-4502-5502-Final-Project/tree/master/dataset](https://github.com/jahoon1998/CU-Boulder-CSCI-5502-Data-Mining-Final-Project/tree/master/dataset)
+[Dataset readme](https://github.com/jahoon1998/CU-Boulder-CSCI-5502-Data-Mining-Final-Project/tree/master/dataset)
 ## Results
 Our models recorded incredibly high accuracy for user-user filtering. Because we had a large database of students and most classes were required we were able to achieve nearly 97% accuracy.
 ## How to replicate
